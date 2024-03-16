@@ -1,5 +1,6 @@
 import './App.css'
 import HeroBanner from './components/Hero Banner/heroBanner'
+import RecipesSection from './components/Recipes/recipesSection'
 import Header from './components/Site Main Header/header'
 
 function App() {
@@ -11,6 +12,8 @@ function App() {
       <Header></Header>
 
       <HeroBanner></HeroBanner>
+
+      <RecipesSection></RecipesSection>
 
 
 
