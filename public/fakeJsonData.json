@@ -1,0 +1,162 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Soy-Glazed Chicken",
+        "recipe_image": "https://i.ibb.co/kB3nHGx/Soy-Glazed-Chicken.jpg",
+        "short_description": "Tender chicken glazed with soy sauce",
+        "ingredients": [
+            "500gm chicken",
+            "50ml soy sauce",
+            "10gm garlic",
+            "10gm ginger",
+            "30gm brown sugar"
+        ],
+        "preparation_time_min": 30,
+        "calories": 350
+    },
+
+    {
+        "recipe_id": 2,
+        "recipe_name": "Basil Mushroom Stir-Fry",
+        "recipe_image": "https://i.ibb.co/Z1Bmx5r/Basil-Mushroom-Stir-Fry.jpg",
+        "short_description": "A flavorful stir-fry with basil and mushrooms",
+        "ingredients": [
+            "200gm mushrooms",
+            "30gm basil leaves",
+            "20ml soy sauce",
+            "10gm garlic",
+            "100gm bell peppers"
+        ],
+        "preparation_time_min": 25,
+        "calories": 280
+    },
+
+    {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Teriyaki",
+        "recipe_image": "https://i.ibb.co/0jZBPnk/Chicken-Teriyaki.jpg",
+        "short_description": "Grilled chicken with teriyaki sauce",
+        "ingredients": [
+            "500gm chicken",
+            "50ml soy sauce",
+            "30gm mirin",
+            "30gm brown sugar",
+            "10gm sesame seeds"
+        ],
+        "preparation_time_min": 35,
+        "calories": 380
+    },
+
+    {
+        "recipe_id": 4,
+        "recipe_name": "Soy-Glazed Salmon",
+        "recipe_image": "https://i.ibb.co/ZzRHw3R/Soy-Glazed-Salmon.jpg",
+        "short_description": "Salmon fillets glazed with soy sauce",
+        "ingredients": [
+            "400gm salmon",
+            "30ml soy sauce",
+            "20gm honey",
+            "10gm garlic",
+            "20gm lemon"
+        ],
+        "preparation_time_min": 25,
+        "calories": 320
+    },
+
+    {
+        "recipe_id": 5,
+        "recipe_name": "Thai Basil Beef",
+        "recipe_image": "https://i.ibb.co/wWXkNb5/pexels-malidate-van-769289.jpg",
+        "short_description": "Spicy beef stir-fry with Thai basil",
+        "ingredients": [
+            "400gm beef",
+            "50gm Thai basil leaves",
+            "30ml soy sauce",
+            "20gm fish sauce",
+            "10gm chili"
+        ],
+        "preparation_time_min": 30,
+        "calories": 420
+    },
+
+    {
+        "recipe_id": 6,
+        "recipe_name": "Soy-Glazed Tofu",
+        "recipe_image": "https://i.ibb.co/rZ8Jf0d/pexels-ella-olsson-3026808.jpg",
+        "short_description": "Crispy tofu cubes glazed with soy sauce",
+        "ingredients": [
+            "400gm tofu",
+            "30ml soy sauce",
+            "20gm cornstarch",
+            "10gm sesame oil",
+            "30gm green onions"
+        ],
+        "preparation_time_min": 40,
+        "calories": 250
+    },
+
+    {
+        "recipe_id": 7,
+        "recipe_name": "Mushroom Basil Pizza",
+        "recipe_image": "https://i.ibb.co/2h7vT2g/pexels-engin-akyurt-1437812.jpg",
+        "short_description": "Pizza topped with mushrooms and fresh basil",
+        "ingredients": [
+            "1000gm pizza dough",
+            "200gm mushrooms",
+            "50gm basil leaves",
+            "150gm tomato sauce",
+            "150gm mozzarella cheese"
+        ],
+        "preparation_time_min": 45,
+        "calories": 380
+    },
+
+    {
+        "recipe_id": 8,
+        "recipe_name": "Basil Pesto Chicken Pasta",
+        "recipe_image": "https://i.ibb.co/z6dKrDL/pexels-maurijn-pach-546945.jpg",
+        "short_description": "Pasta with grilled chicken and basil pesto sauce",
+        "ingredients": [
+            "300gm chicken",
+            "300gm pasta",
+            "150gm basil pesto",
+            "200gm garlic",
+            "50gm parmesan cheese"
+        ],
+        "preparation_time_min": 35,
+        "calories": 420
+    },
+
+    {
+        "recipe_id": 9,
+        "recipe_name": "Stir-Fried Chicken with Basil",
+        "recipe_image": "https://i.ibb.co/BBBwMRz/pexels-dominika-roseclay-4288047.jpg",
+        "short_description": "Chicken stir-fry with aromatic basil leaves",
+        "ingredients": [
+            "400gm chicken",
+            "50gm basil leaves",
+            "30ml soy sauce",
+            "200gm garlic",
+            "100gm onion"
+        ],
+        "preparation_time_min": 30,
+        "calories": 350
+    },
+
+    {
+        "recipe_id": 10,
+        "recipe_name": "Chicken and Mushroom Risotto",
+        "recipe_image": "https://i.ibb.co/sCkLCvX/pexels-pixabay-533325.jpg",
+        "short_description": "Creamy risotto with chicken and mushrooms",
+        "ingredients": [
+            "300gm chicken",
+            "300gm mushrooms",
+            "500gm arborio rice",
+            "1000 ml chicken broth",
+            "100gm parmesan cheese"
+        ],
+        "preparation_time_min": 50,
+        "calories": 450
+    }
+
+]
