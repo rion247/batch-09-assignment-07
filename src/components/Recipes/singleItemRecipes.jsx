@@ -1,7 +1,7 @@
 import { LuClock3 } from "react-icons/lu";
 import { AiOutlineFire } from "react-icons/ai";
 
-const SingleItemRecipes = ({ recipe }) => {
+const SingleItemRecipes = ({ recipe, handleWantoCook }) => {
     const { recipe_id, recipe_name, recipe_image, short_description, ingredients, preparation_time_min, calories } = recipe;
     return (
 
@@ -46,7 +46,7 @@ const SingleItemRecipes = ({ recipe }) => {
 
             </div>
 
-            <button className="py-3 px-6 bg-green-500 rounded-[50px] text-lg font-medium">Want to Cook</button>
+            <button onClick={()=>handleWantoCook(recipe)} className="py-3 px-6 bg-green-500 rounded-[50px] text-lg font-medium">Want to Cook</button>
 
 
 

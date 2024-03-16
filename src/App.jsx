@@ -3,6 +3,7 @@ import HeroBanner from './components/Hero Banner/heroBanner'
 import RecipesSection from './components/Recipes/recipesSection'
 import Header from './components/Site Main Header/header'
 
+
 function App() {
 
   return (
@@ -14,9 +15,6 @@ function App() {
       <HeroBanner></HeroBanner>
 
       <RecipesSection></RecipesSection>
-
-
-
 
     </div>
 
