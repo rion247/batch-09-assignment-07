@@ -5,7 +5,6 @@ const SingleItemRecipes = ({ recipe, handleWantoCook }) => {
     const { recipe_id, recipe_name, recipe_image, short_description, ingredients, preparation_time_min, calories } = recipe;
     return (
 
-
         <div className="w-[430px] p-6 border border-neutral-300 rounded-3xl">
 
             <div className="mb-6">
@@ -21,7 +20,7 @@ const SingleItemRecipes = ({ recipe, handleWantoCook }) => {
                 <h4 className="font-medium text-lg mb-4">Ingredients: {ingredients.length}</h4>
 
                 {
-                    ingredients.map(element => <li className="list-disc text-neutral-400 font-normal text-lg">{element}</li>)
+                    ingredients.map(element => <li className="list-disc text-neutral-400 font-normal text-lg list-inside">{element}</li>)
                 }
 
             </div>
@@ -48,12 +47,7 @@ const SingleItemRecipes = ({ recipe, handleWantoCook }) => {
 
             <button onClick={()=>handleWantoCook(recipe)} className="py-3 px-6 bg-green-500 rounded-[50px] text-lg font-medium">Want to Cook</button>
 
-
-
-
         </div>
-
-
 
     );
 };

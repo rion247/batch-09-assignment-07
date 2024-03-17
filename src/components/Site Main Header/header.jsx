@@ -42,7 +42,7 @@ const Header = () => {
 
                     <div className='lg:ml-4 bg-green-400 rounded-full w-12 h-12 flex justify-center items-center'>
                         <a href="#">
-                            <img className="w-6 h-6" src="../../src/images/navbarIcon.png" alt="...Loading" />
+                            <img className="w-6 h-6" src="navbaricon.png" alt="...Loading" />
                         </a>
                     </div>
 

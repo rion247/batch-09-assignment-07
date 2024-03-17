@@ -13,7 +13,7 @@ const RecipesSection = () => {
     const [calories, setcalories] = useState(0);
 
     useEffect(() => {
-        fetch('/public/fakeJsonData.json')
+        fetch('/fakeJsonData.json')
             .then(response => response.json())
             .then(data => setRecipes(data))
     }, []);

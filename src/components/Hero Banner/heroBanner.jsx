@@ -1,6 +1,6 @@
 const HeroBanner = () => {
     return (
-        <div className="lg:w-full lg:h-[600px] rounded-3xl bg-[url('../../../src/images/heroimage.png')] flex justify-center items-center text-white bg-no-repeat bg-cover">
+        <div className="lg:w-full lg:h-[600px] rounded-3xl bg-[url('./images/heroimage.png')] flex justify-center items-center text-white bg-no-repeat bg-cover">
 
             <div>
                 <h1 className="text-5xl font-bold w-[897px] mx-auto text-center leading-[76px] mb-6">Discover an exceptional cooking class tailored for you!</h1>
